@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="toast_recent_files_invalid">"�t�@�C����������܂���ł����B�ŋߎg�����t�@�C���̍��ڂ���폜���܂��B"</string>
-    <string name="toast_recent_files_deleted">�ŋߎg�����t�@�C���̍��ڂ���폜���܂����B</string>
-    <string name="toast_intent_invalid_uri">�t�@�C�����J���܂���BURI���s���ł��B</string>
-    <string name="toast_intent_illegal">�t�@�C�����J���܂���B</string>
-    <string name="toast_activity_open">�t�@�C���u���E�U��ǂݍ��߂܂���B</string>
-    <string name="toast_memory_open">�������s���̂��߁A�t�@�C�����J���܂���B</string>
-    <string name="toast_open_error">�t�@�C�����J���܂���B (�t�@�C�����傫�����邩�A�j�����Ă��܂�)</string>
-    <string name="toast_save_null">�p�X��null�̂��߁A�ۑ��ł��܂���B</string>
-    <string name="toast_save_temp">�ꎞ�t�@�C���ɕۑ����邱�Ƃ͂ł��܂���B</string>
-    <string name="toast_save_delete">�ۑ��ł��܂��� (�ꎞ�t�@�C���̃R�s�[�ŃG���[���������܂����B)</string>
-    <string name="toast_save_rename">�ۑ��ł��܂��� (�ꎞ�t�@�C���̃R�s�[�ŃG���[���������܂����B)</string>
-    <string name="toast_save_success">�ۑ����܂����B</string>
-    <string name="toast_folder_cant_write">"���̃t�H���_�͏������݉\�ł͂Ȃ����ߎg�p�ł��܂���B"</string>
-    <string name="toast_file_cant_read">"���̃t�@�C���͓ǂݎ��\�ł͂Ȃ����ߎg�p�ł��܂���B"</string>
-    <string name="toast_search_not_found">�t�@�C����������܂���ł����B</string>
-    <string name="toast_search_eof">����ȏ�t�@�C����������܂���ł����B</string>
-    <string name="toast_search_no_input">�����o�[�ɓ��͂���ƌ����ł��܂��B</string>
-    <string name="toast_filename_empty">�t�@�C��������ɂ��邱�Ƃ͂ł��܂���B</string>
-    <string name="toast_warn_no_undo">����ȏ㌳�ɖ߂��܂���B</string>
-    <string name="toast_open_home_page_error">����̃t�@�C����������܂���B�ݒ肩��V���ɑI�����Ă��������B</string>
-    <string name="toast_home_page_cant_read">"����̃t�@�C�����ǂݍ��݉\�ł͂Ȃ����ߎg�p�ł��܂���"</string>
-    <string name="toast_widget_select">�V�����E�B�W�F�b�g�Ɋ֘A�t����t�@�C����I�����Ă��������B</string>
-    <string name="toast_open_select">�t�@�C����I�����ĊJ���܂��B</string>
-    <string name="toast_home_page_select">�z�[����ʂ���Ted���N�������Ƃ��ɊJ���t�@�C����I�����Ă��������B</string>
-    <string name="toast_file_saved_auto">"���݊J���Ă���t�@�C���͎����ۑ�����܂����B����N�����͂��̃t�@�C���������ŊJ����܂��B"</string>
+    <string name="toast_recent_files_invalid">"ファイルが見つかりませんでした。最近使ったファイルの項目から削除します。"</string>
+    <string name="toast_recent_files_deleted">最近使ったファイルの項目から削除しました。</string>
+    <string name="toast_intent_invalid_uri">ファイルが開けません。URIが不正です。</string>
+    <string name="toast_intent_illegal">ファイルが開けません。</string>
+    <string name="toast_activity_open">ファイルブラウザを読み込めません。</string>
+    <string name="toast_memory_open">メモリ不足のため、ファイルが開けません。</string>
+    <string name="toast_open_error">ファイルが開けません。 (ファイルが大きすぎるか、破損しています)</string>
+    <string name="toast_save_null">パスがnullのため、保存できません。</string>
+    <string name="toast_save_temp">一時ファイルに保存することはできません。</string>
+    <string name="toast_save_delete">保存できません (一時ファイルのコピーでエラーが発生しました。)</string>
+    <string name="toast_save_rename">保存できません (一時ファイルのコピーでエラーが発生しました。)</string>
+    <string name="toast_save_success">保存しました。</string>
+    <string name="toast_folder_cant_write">"このフォルダは書き込み可能ではないため使用できません。"</string>
+    <string name="toast_file_cant_read">"このファイルは読み取り可能ではないため使用できません。"</string>
+    <string name="toast_search_not_found">ファイルが見つかりませんでした。</string>
+    <string name="toast_search_eof">これ以上ファイルが見つかりませんでした。</string>
+    <string name="toast_search_no_input">検索バーに入力すると検索できます。</string>
+    <string name="toast_filename_empty">ファイル名を空にすることはできません。</string>
+    <string name="toast_warn_no_undo">これ以上元に戻せません。</string>
+    <string name="toast_open_home_page_error">既定のファイルが見つかりません。設定から新たに選択してください。</string>
+    <string name="toast_home_page_cant_read">"既定のファイルが読み込み可能ではないため使用できません"</string>
+    <string name="toast_widget_select">新しいウィジェットに関連付けるファイルを選択してください。</string>
+    <string name="toast_open_select">ファイルを選択して開きます。</string>
+    <string name="toast_home_page_select">ホーム画面からTedを起動したときに開くファイルを選択してください。</string>
+    <string name="toast_file_saved_auto">"現在開いているファイルは自動保存されました。次回起動時はこのファイルが自動で開かれます。"</string>
 
 
     <!--  -->
-    <string name="toast_folder_doesnt_exist">"�t�H���_�����݂��Ă��܂���B"</string>
-    <string name="toast_folder_not_folder">�t�H���_�ł͂���܂���B</string>
-    <string name="toast_folder_cant_read">"�ǂݎ��\�ȃt�H���_�ł͂���܂���B"</string>
-    <string name="toast_no_market">���̃f�o�C�X���Play Store�����݂��܂���B</string>
+    <string name="toast_folder_doesnt_exist">"フォルダが存在していません。"</string>
+    <string name="toast_folder_not_folder">フォルダではありません。</string>
+    <string name="toast_folder_cant_read">"読み取り可能なフォルダではありません。"</string>
+    <string name="toast_no_market">このデバイス上にPlay Storeが存在しません。</string>
 
 </resources>

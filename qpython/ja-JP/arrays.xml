@@ -16,20 +16,20 @@
 
 <resources>
     <string-array name="entries_statusbar_preference">
-        <item>ƒXƒe[ƒ^ƒXƒo[‚ð•\Ž¦</item>
-        <item>ƒXƒe[ƒ^ƒXƒo[‚ð‰B‚·</item>
+        <item>ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ãƒãƒ¼ã‚’è¡¨ç¤º</item>
+        <item>ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ãƒãƒ¼ã‚’éš ã™</item>
     </string-array>
 
     <string-array name="entries_actionbar_preference">
         <!-- <item>Action bar disabled</item> -->
-        <item>ƒAƒNƒVƒ‡ƒ“ƒo[‚ð•\Ž¦</item>
-        <item>ƒAƒNƒVƒ‡ƒ“ƒo[‚ð‰B‚·(‰æ–Ê‚Ìã•”‚©ƒƒjƒ…[ƒ{ƒ^ƒ“‚ð‰Ÿ‚·‚ÆÄ•\Ž¦)</item>
+        <item>ã‚¢ã‚¯ã‚·ãƒ§ãƒ³ãƒãƒ¼ã‚’è¡¨ç¤º</item>
+        <item>ã‚¢ã‚¯ã‚·ãƒ§ãƒ³ãƒãƒ¼ã‚’éš ã™(ç”»é¢ã®ä¸Šéƒ¨ã‹ãƒ¡ãƒ‹ãƒ¥ãƒ¼ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã¨å†è¡¨ç¤º)</item>
     </string-array>
 
     <string-array name="entries_orientation_preference">
-        <item>Ž©“®</item>
-        <item>…•½</item>
-        <item>‚’¼</item>
+        <item>è‡ªå‹•</item>
+        <item>æ°´å¹³</item>
+        <item>åž‚ç›´</item>
     </string-array>
 
     <string-array name="entries_fontsize_preference">
@@ -57,51 +57,51 @@
     </string-array>
 
     <string-array name="entries_color_preference">
-        <item>”’‚Ì”wŒiE•‚Ì•¶Žš</item>
-        <item>•‚Ì”wŒiE”’‚Ì•¶Žš</item>
-        <item>Â‚Ì”wŒiE”’‚Ì•¶Žš</item>
-        <item>•‚Ì”wŒiE—Î‚Ì•¶Žš</item>
-        <item>•‚Ì”wŒiE‰©‚Ì•¶Žš</item>
-        <item>•‚Ì”wŒiEÔ‚Ì•¶Žš</item>
-        <item>ƒzƒƒOƒ‰ƒ€</item>
-        <item>‚˜IŒõ</item>
-        <item>’á˜IŒõ</item>
-        <item>LinuxƒXƒ^ƒCƒ‹</item>
+        <item>ç™½ã®èƒŒæ™¯ãƒ»é»’ã®æ–‡å­—</item>
+        <item>é»’ã®èƒŒæ™¯ãƒ»ç™½ã®æ–‡å­—</item>
+        <item>é’ã®èƒŒæ™¯ãƒ»ç™½ã®æ–‡å­—</item>
+        <item>é»’ã®èƒŒæ™¯ãƒ»ç·‘ã®æ–‡å­—</item>
+        <item>é»’ã®èƒŒæ™¯ãƒ»é»„ã®æ–‡å­—</item>
+        <item>é»’ã®èƒŒæ™¯ãƒ»èµ¤ã®æ–‡å­—</item>
+        <item>ãƒ›ãƒ­ã‚°ãƒ©ãƒ </item>
+        <item>é«˜éœ²å…‰</item>
+        <item>ä½Žéœ²å…‰</item>
+        <item>Linuxã‚¹ã‚¿ã‚¤ãƒ«</item>
     </string-array>
 
     <string-array name="entries_backaction_preference">
-        <item>‚·‚×‚Ä‚ÌƒEƒBƒ“ƒhƒE‚ð•Â‚¶‚é</item>
-        <item>Œ»Ý‚ÌƒEƒBƒ“ƒhƒE‚ð•Â‚¶‚é</item>
-        <item>ƒZƒbƒVƒ‡ƒ“‚ðˆÛŽ‚µ‚½‚Ü‚ÜŒ»Ý‚ÌƒEƒBƒ“ƒhƒE‚ð•Â‚¶‚é</item>
-        <item>ESC‚ðƒRƒ“ƒ\[ƒ‹‚É‘—‚é</item>
-        <item>TAB‚ðƒRƒ“ƒ\[ƒ‹‚É‘—‚é</item>
+        <item>ã™ã¹ã¦ã®ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’é–‰ã˜ã‚‹</item>
+        <item>ç¾åœ¨ã®ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’é–‰ã˜ã‚‹</item>
+        <item>ã‚»ãƒƒã‚·ãƒ§ãƒ³ã‚’ç¶­æŒã—ãŸã¾ã¾ç¾åœ¨ã®ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’é–‰ã˜ã‚‹</item>
+        <item>ESCã‚’ã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã«é€ã‚‹</item>
+        <item>TABã‚’ã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã«é€ã‚‹</item>
     </string-array>
 
     <string-array name="entries_controlkey_preference">
         <item>Ball</item>
         <item>\@</item>
-        <item>¶Alt</item>
-        <item>‰EAlt</item>
-        <item>‰¹—Êã‚°ƒ{ƒ^ƒ“</item>
-        <item>‰¹—Ê‰º‚°ƒ{ƒ^ƒ“</item>
-        <item>ƒJƒƒ‰ƒ{ƒ^ƒ“</item>
-        <item>–³‚µ</item>
+        <item>å·¦Alt</item>
+        <item>å³Alt</item>
+        <item>éŸ³é‡ä¸Šã’ãƒœã‚¿ãƒ³</item>
+        <item>éŸ³é‡ä¸‹ã’ãƒœã‚¿ãƒ³</item>
+        <item>ã‚«ãƒ¡ãƒ©ãƒœã‚¿ãƒ³</item>
+        <item>ç„¡ã—</item>
     </string-array>
 
     <string-array name="entries_fnkey_preference">
         <item>Ball</item>
         <item>\@</item>
-        <item>¶Alt</item>
-        <item>‰EAlt</item>
-        <item>‰¹—Êã‚°ƒ{ƒ^ƒ“</item>
-        <item>‰¹—Ê‰º‚°ƒ{ƒ^ƒ“</item>
-        <item>ƒJƒƒ‰ƒ{ƒ^ƒ“</item>
-        <item>–³‚µ</item>
+        <item>å·¦Alt</item>
+        <item>å³Alt</item>
+        <item>éŸ³é‡ä¸Šã’ãƒœã‚¿ãƒ³</item>
+        <item>éŸ³é‡ä¸‹ã’ãƒœã‚¿ãƒ³</item>
+        <item>ã‚«ãƒ¡ãƒ©ãƒœã‚¿ãƒ³</item>
+        <item>ç„¡ã—</item>
     </string-array>
 
     <string-array name="entries_ime_preference">
-        <item>•¶Žš</item>
-        <item>’PŒê</item>
+        <item>æ–‡å­—</item>
+        <item>å˜èªž</item>
     </string-array>
 
 
@@ -109,24 +109,24 @@
     <string-array name="control_keys_short_names">
         <item>Ball</item>
         <item>\@</item>
-        <item>¶Alt</item>
-        <item>‰EAlt</item>
-        <item>‰¹—Êã‚°ƒ{ƒ^ƒ“</item>
-        <item>‰¹—Ê‰º‚°ƒ{ƒ^ƒ“</item>
-        <item>ƒJƒƒ‰ƒ{ƒ^ƒ“</item>
-        <item>–³‚µ</item>
+        <item>å·¦Alt</item>
+        <item>å³Alt</item>
+        <item>éŸ³é‡ä¸Šã’ãƒœã‚¿ãƒ³</item>
+        <item>éŸ³é‡ä¸‹ã’ãƒœã‚¿ãƒ³</item>
+        <item>ã‚«ãƒ¡ãƒ©ãƒœã‚¿ãƒ³</item>
+        <item>ç„¡ã—</item>
     </string-array>
 
     <!-- These are the 'short' names for the Fn keys. They are used in the special keys dialog. -->
     <string-array name="fn_keys_short_names">
         <item>Ball</item>
         <item>\@</item>
-        <item>¶Alt</item>
-        <item>‰EAlt</item>
-        <item>‰¹—Êã‚°ƒ{ƒ^ƒ“</item>
-        <item>‰¹—Ê‰º‚°ƒ{ƒ^ƒ“</item>
-        <item>ƒJƒƒ‰ƒ{ƒ^ƒ“</item>
-        <item>–³‚µ</item>
+        <item>å·¦Alt</item>
+        <item>å³Alt</item>
+        <item>éŸ³é‡ä¸Šã’ãƒœã‚¿ãƒ³</item>
+        <item>éŸ³é‡ä¸‹ã’ãƒœã‚¿ãƒ³</item>
+        <item>ã‚«ãƒ¡ãƒ©ãƒœã‚¿ãƒ³</item>
+        <item>ç„¡ã—</item>
     </string-array>
 
 
@@ -134,11 +134,11 @@
 
 
     <string-array name="color_theme_names">
-        <item>ƒNƒ‰ƒVƒbƒN</item>
-        <item>ƒ_[ƒN</item>
-        <item>ƒ}ƒgƒŠƒNƒX</item>
-        <item>ƒXƒJƒC</item>
-        <item>ƒhƒ‰ƒLƒ…ƒ‰</item>
+        <item>ã‚¯ãƒ©ã‚·ãƒƒã‚¯</item>
+        <item>ãƒ€ãƒ¼ã‚¯</item>
+        <item>ãƒžãƒˆãƒªã‚¯ã‚¹</item>
+        <item>ã‚¹ã‚«ã‚¤</item>
+        <item>ãƒ‰ãƒ©ã‚­ãƒ¥ãƒ©</item>
     </string-array>
     <string-array name="color_theme_values">
         <item>0</item>
