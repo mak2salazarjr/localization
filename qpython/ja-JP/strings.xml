@@ -26,7 +26,7 @@
     <string name="editor">エディタ</string>
     <string name="community">コミュニティ</string>
 
-    <string name="more">さらに</string>
+    <string name="more">詳しく</string>
     <string name="qpypi">ライブラリ</string>
     <string name="sl4a_server">SL4Aサーバー</string>
     <string name="lib_manager" translatable="false">QPYPI</string>
@@ -169,29 +169,29 @@
     <!-- BEGIN SHORTCUT RELATED STRINGS -->
     <!-- AndroidManifest.xml -->
     <string name="activity_shortcut_create">"Term shortcut"</string>
-    <string name="addshortcut_button_find_command">Find command</string>
-    <string name="addshortcut_command_hint">command</string>
+    <string name="addshortcut_button_find_command">コマンドを探す</string>
+    <string name="addshortcut_command_hint">コマンド</string>
     <string name="addshortcut_example_hint">--example=\""a\"</string>
     <string name="addshortcut_navigator_title">SELECT SHORTCUT TARGET</string>
-    <string name="addshortcut_command_window_instructions">Command terminal requires full mPath, no arguments. For other commands use Arguments terminal (ex: cd /sdcard).</string>
-    <string name="addshortcut_arguments_label">Add to dictionary</string>
-    <string name="addshortcut_shortcut_label">Shortcut label\:</string>
-    <string name="addshortcut_button_text_icon">Text icon</string>
-    <string name="addshortcut_make_text_icon">MAKE TEXT ICON</string>
+    <string name="addshortcut_command_window_instructions">ターミナルは完全mpathデバイス名が必要です。 ほかのコマンドについてはコマンドライン引数を使用します。 (例: cd /sdcard)</string>
+    <string name="addshortcut_arguments_label">辞書に追加</string>
+    <string name="addshortcut_shortcut_label">ショートカット名\:</string>
+    <string name="addshortcut_button_text_icon">テキストアイコン</string>
+    <string name="addshortcut_make_text_icon">テキストアイコンを作成</string>
     <string name="addshortcut_text_icon_instructions"></string>
-    <string name="addshortcut_title">Term shortcut</string>
+    <string name="addshortcut_title">ターミナルのショートカット</string>
     <!-- FSNavigator.java -->
-    <string name="fsnavigator_title">FILE SELECTOR</string>
-    <string name="fsnavigator_no_external_storage">External storage not available</string>
-    <string name="fsnavigator_optional_enter_path">Or enter mPath here.</string>
-    <string name="fsnavigator_change_theme">Change theme</string>
+    <string name="fsnavigator_title">ファイルを探す</string>
+    <string name="fsnavigator_no_external_storage">外部ストレージが無効です。</string>
+    <string name="fsnavigator_optional_enter_path">またはmPathを入力する</string>
+    <string name="fsnavigator_change_theme">テーマを変更</string>
     <!-- ColorValue.java -->
     <string name="colorvalue_letter_alpha" translatable="false">α</string>
     <string name="colorvalue_letter_red" translatable="false">R</string>
     <string name="colorvalue_letter_green" translatable="false">G</string>
     <string name="colorvalue_letter_blue" translatable="false">B</string>
-    <string name="colorvalue_label_lock_button_column">LOCK</string>
-    <string name="colorvalue_icon_text_entry_hint">Enter icon text</string>
+    <string name="colorvalue_label_lock_button_column">ロック</string>
+    <string name="colorvalue_icon_text_entry_hint">アイコンのテキストを入力</string>
 
     <string name="help_url">http://www.qpython.org</string>
 
@@ -229,7 +229,7 @@
     <string name="warning">警告</string>
     <string name="reset_warning">この操作を続行すると、設定やダウンロードしたライブラリがすべて失われます。続行しますか?</string>
     <string name="downloading">ライブラリ</string>
-    <string name="location">ロケーション</string>
+    <string name="location">場所</string>
 
 
     <!--  -->
@@ -540,7 +540,7 @@
     <string name="open_py3">Python3を開く</string>
     <string name="unzip_pac_fail">zipの解凍に失敗しました。</string>
     <string name="retry_hint">再試行してください。</string>
-    <string name="event_login">ログイン</string>
+    <string name="event_login">LOGIN</string>
     <string name="event_me">Open_Me</string>
     <string name="event_term">Open_terminal</string>
     <string name="event_editor">Open_editor</string>
