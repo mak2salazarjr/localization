@@ -221,10 +221,10 @@
     <string name="star_it">評価する</string>
     <string name="disable_root">無効化</string>
     <string name="http_qpypi_qpython_org">https://pypi.python.org/simple/</string>
-    <string name="add">add</string>
+    <string name="add">追加</string>
     <string name="sl4a_running">SL4Aは動作中です</string>
     <string name="sl4a_un_running">SL4Aは動作していません。</string>
-    <string name="service_toggle">Server taggle</string>
+    <string name="service_toggle">サーバーのオン・オフ</string>
     <string name="qpy_description">QPythonはAndroidデバイス上で動作するスクリプトエンジンです。QPythonはAndoidのタブレットやスマートホン上で動作します。</string>
     <string name="warning">警告</string>
     <string name="reset_warning">この操作を続行すると、設定やダウンロードしたライブラリがすべて失われます。続行しますか?</string>
@@ -377,9 +377,9 @@
     <string name="scan">スキャン</string>
     <string name="read_script_from_qrcode">QRCodeからコードを読み込み</string>
 
-    <string name="course">コース</string>
+    <string name="course">チュートリアル</string>
     <string name="lost_connect">接続失敗</string>
-    <string name="featured_courses">コース</string>
+    <string name="featured_courses">おすすめのチュートリアル</string>
     <string name="programs">プログラム</string>
     <string name="open_gl2_is_not_supported">OpenGL2はサポートされていません。</string>
     <string name="unable_extract">Pythonコードを抽出できません。</string>
@@ -405,7 +405,7 @@
     <string name="level" translatable="false">lv %s</string>
     <string name="recommend">推奨</string>
     <string name="newest_course">最新</string>
-    <string name="best_python_development_ide_non_mobile">Pythonの開発に最適なIDEはモバイルではありません。</string>
+    <string name="best_python_development_ide_non_mobile">Pythonの開発に最適な開発環境はモバイルではありません。</string>
     <string name="sign_in_with_google">Googleでサインイン</string>
     <string name="by_signing_in_you_agree_to_out_privacy_policy_term_of_service"><![CDATA[サインインするには、当サービスの<font color="#4BAC07">プライバシーポリシー</font>に同意する必要があります。]]></string>
     <string name="logo" translatable="false">logo</string>
@@ -529,14 +529,14 @@
     <string name="enter_history">履歴</string>
     <string name="qpy_featured">QPythonの特集</string>
     <string name="history_emp">履歴はありません</string>
-    <string name="no_google">Googleサービスなしでログインできません。</string>
+    <string name="no_google">Googleサービスが無いためログインできません。</string>
     <string name="pip_no_net">ネットワークなしでpipを開くことはできません。</string>
     <string name="key_py3">switch_py3</string>
     <string name="py3_not_install">Python3はインストールされていません。</string>
     <string name="install_py3_hint">Python3を使用する前にインストールする必要があります。</string>
     <string name="open_app_market">アプリマーケットに移動</string>
     <string name="release_error">パッケージが解放されていません。</string>
-    <string name="open_py3_hint">先にPython3からパッケージを開放してください。</string>
+    <string name="open_py3_hint">先にPython3からパッケージを解放してください。</string>
     <string name="open_py3">Python3を開く</string>
     <string name="unzip_pac_fail">zipの解凍に失敗しました。</string>
     <string name="retry_hint">再試行してください。</string>
