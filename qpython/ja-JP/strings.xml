@@ -26,7 +26,7 @@
     <string name="editor">エディタ</string>
     <string name="community">コミュニティ</string>
 
-    <string name="more">さらに</string>
+    <string name="more">詳しく</string>
     <string name="qpypi">ライブラリ</string>
     <string name="sl4a_server">SL4Aサーバー</string>
     <string name="lib_manager" translatable="false">QPYPI</string>
@@ -169,29 +169,29 @@
     <!-- BEGIN SHORTCUT RELATED STRINGS -->
     <!-- AndroidManifest.xml -->
     <string name="activity_shortcut_create">"Term shortcut"</string>
-    <string name="addshortcut_button_find_command">Find command</string>
-    <string name="addshortcut_command_hint">command</string>
+    <string name="addshortcut_button_find_command">コマンドを探す</string>
+    <string name="addshortcut_command_hint">コマンド</string>
     <string name="addshortcut_example_hint">--example=\""a\"</string>
     <string name="addshortcut_navigator_title">SELECT SHORTCUT TARGET</string>
-    <string name="addshortcut_command_window_instructions">Command terminal requires full mPath, no arguments. For other commands use Arguments terminal (ex: cd /sdcard).</string>
-    <string name="addshortcut_arguments_label">Add to dictionary</string>
-    <string name="addshortcut_shortcut_label">Shortcut label\:</string>
-    <string name="addshortcut_button_text_icon">Text icon</string>
-    <string name="addshortcut_make_text_icon">MAKE TEXT ICON</string>
+    <string name="addshortcut_command_window_instructions">ターミナルは完全mpathデバイス名が必要です。 ほかのコマンドについてはコマンドライン引数を使用します。 (例: cd /sdcard)</string>
+    <string name="addshortcut_arguments_label">辞書に追加</string>
+    <string name="addshortcut_shortcut_label">ショートカット名\:</string>
+    <string name="addshortcut_button_text_icon">テキストアイコン</string>
+    <string name="addshortcut_make_text_icon">テキストアイコンを作成</string>
     <string name="addshortcut_text_icon_instructions"></string>
-    <string name="addshortcut_title">Term shortcut</string>
+    <string name="addshortcut_title">ターミナルのショートカット</string>
     <!-- FSNavigator.java -->
-    <string name="fsnavigator_title">FILE SELECTOR</string>
-    <string name="fsnavigator_no_external_storage">External storage not available</string>
-    <string name="fsnavigator_optional_enter_path">Or enter mPath here.</string>
-    <string name="fsnavigator_change_theme">Change theme</string>
+    <string name="fsnavigator_title">ファイルを探す</string>
+    <string name="fsnavigator_no_external_storage">外部ストレージが無効です。</string>
+    <string name="fsnavigator_optional_enter_path">またはmPathを入力する</string>
+    <string name="fsnavigator_change_theme">テーマを変更</string>
     <!-- ColorValue.java -->
     <string name="colorvalue_letter_alpha" translatable="false">α</string>
     <string name="colorvalue_letter_red" translatable="false">R</string>
     <string name="colorvalue_letter_green" translatable="false">G</string>
     <string name="colorvalue_letter_blue" translatable="false">B</string>
-    <string name="colorvalue_label_lock_button_column">LOCK</string>
-    <string name="colorvalue_icon_text_entry_hint">Enter icon text</string>
+    <string name="colorvalue_label_lock_button_column">ロック</string>
+    <string name="colorvalue_icon_text_entry_hint">アイコンのテキストを入力</string>
 
     <string name="help_url">http://www.qpython.org</string>
 
@@ -221,15 +221,15 @@
     <string name="star_it">評価する</string>
     <string name="disable_root">無効化</string>
     <string name="http_qpypi_qpython_org">https://pypi.python.org/simple/</string>
-    <string name="add">add</string>
+    <string name="add">追加</string>
     <string name="sl4a_running">SL4Aは動作中です</string>
     <string name="sl4a_un_running">SL4Aは動作していません。</string>
-    <string name="service_toggle">Server taggle</string>
+    <string name="service_toggle">サーバーのオン・オフ</string>
     <string name="qpy_description">QPythonはAndroidデバイス上で動作するスクリプトエンジンです。QPythonはAndoidのタブレットやスマートホン上で動作します。</string>
     <string name="warning">警告</string>
     <string name="reset_warning">この操作を続行すると、設定やダウンロードしたライブラリがすべて失われます。続行しますか?</string>
     <string name="downloading">ライブラリ</string>
-    <string name="location">ロケーション</string>
+    <string name="location">場所</string>
 
 
     <!--  -->
@@ -377,9 +377,9 @@
     <string name="scan">スキャン</string>
     <string name="read_script_from_qrcode">QRCodeからコードを読み込み</string>
 
-    <string name="course">コース</string>
+    <string name="course">チュートリアル</string>
     <string name="lost_connect">接続失敗</string>
-    <string name="featured_courses">コース</string>
+    <string name="featured_courses">おすすめのチュートリアル</string>
     <string name="programs">プログラム</string>
     <string name="open_gl2_is_not_supported">OpenGL2はサポートされていません。</string>
     <string name="unable_extract">Pythonコードを抽出できません。</string>
@@ -405,7 +405,7 @@
     <string name="level" translatable="false">lv %s</string>
     <string name="recommend">推奨</string>
     <string name="newest_course">最新</string>
-    <string name="best_python_development_ide_non_mobile">Pythonの開発に最適なIDEはモバイルではありません。</string>
+    <string name="best_python_development_ide_non_mobile">Pythonの開発に最適な開発環境はモバイルではありません。</string>
     <string name="sign_in_with_google">Googleでサインイン</string>
     <string name="by_signing_in_you_agree_to_out_privacy_policy_term_of_service"><![CDATA[サインインするには、当サービスの<font color="#4BAC07">プライバシーポリシー</font>に同意する必要があります。]]></string>
     <string name="logo" translatable="false">logo</string>
@@ -529,18 +529,18 @@
     <string name="enter_history">履歴</string>
     <string name="qpy_featured">QPythonの特集</string>
     <string name="history_emp">履歴はありません</string>
-    <string name="no_google">Googleサービスなしでログインできません。</string>
+    <string name="no_google">Googleサービスが無いためログインできません。</string>
     <string name="pip_no_net">ネットワークなしでpipを開くことはできません。</string>
     <string name="key_py3">switch_py3</string>
     <string name="py3_not_install">Python3はインストールされていません。</string>
     <string name="install_py3_hint">Python3を使用する前にインストールする必要があります。</string>
     <string name="open_app_market">アプリマーケットに移動</string>
     <string name="release_error">パッケージが解放されていません。</string>
-    <string name="open_py3_hint">先にPython3からパッケージを開放してください。</string>
+    <string name="open_py3_hint">先にPython3からパッケージを解放してください。</string>
     <string name="open_py3">Python3を開く</string>
     <string name="unzip_pac_fail">zipの解凍に失敗しました。</string>
     <string name="retry_hint">再試行してください。</string>
-    <string name="event_login">ログイン</string>
+    <string name="event_login">LOGIN</string>
     <string name="event_me">Open_Me</string>
     <string name="event_term">Open_terminal</string>
     <string name="event_editor">Open_editor</string>
